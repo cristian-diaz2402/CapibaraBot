@@ -11,7 +11,7 @@
 ## 📖 Descripción
 
 **Capibara Bot** es un proyecto de **Interacción Humano-Computadora (HCI)** desarrollado en conjunto con compañeros de universidad.  
-El objetivo fue ensamblar un robot desde cero, integrando hardware, software móvil y un modelo de Machine Learning para crear un sistema interactivo y autónomo. Cuenta con animaciones, sonido, interacciones y feedback.
+El objetivo fue ensamblar un robot desde cero, integrando hardware, software móvil y un modelo de Machine Learning para crear un sistema interactivo y autónomo. Cuenta con animaciones, sonido, interacciones y feedback. En el archivo PDF se encuentra un resumen general del proyecto, asi mismo este repositorio cuenta con el aplicativo APK y el codigo fuente de la aplicacion (Archivo ZIP) el cual cuenta con contraseña, si necesitas no dudes en contactarte conmigo y con gusto te ayudare.
 
 ---
 
